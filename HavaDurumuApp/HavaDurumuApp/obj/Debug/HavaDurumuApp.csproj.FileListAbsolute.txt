@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\HavaDurumuApp\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.frm_HavaDurumu.resources
